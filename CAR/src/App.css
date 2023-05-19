@@ -1,0 +1,51 @@
+
+/* @keyframes anime{
+  From{background-image: url(./assets/images.jfif);}
+  To{background-image: url(./assets/PK.jfif);}
+  From{background-image: url(./assets/cee.jfif);}
+  To{background-image: url(./assets/dadju.jfif);}
+  From{background-image: url(./assets/b9facb7124ed1f39d9ff8814311d7145\(1\).jpg);}
+  To{background-image: url(./assets/sports.jfif);}
+  From{background-image: url(./assets/3.jfif);}
+  To{background-image: url(./assets/economics.jfif);}
+} */
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html{
+ background-image: radial-gradient(rgb(232, 229, 22rgb(8, 8, 8)29));
+}
+.form{
+  background-image: radial-gradient(white,rgb(191, 112, 16));
+  width: 360px;
+  height: 550px;
+  padding: 1rem;
+  margin-left: 27rem ;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  
+}
+input{
+  margin: 0.3rem;
+  padding: 0.3rem;
+}
+h1{
+  font-weight: bolder;
+  color: black;
+  font-size: larger;
+}
+button{
+background-color: rgb(250, 247, 243);
+padding: 0.4rem;
+font-size: small;
+font-weight: bold;
+border: none;
+width: 8rem;
+border-radius: 0.6rem;
+margin-left: 7rem;
+margin-top: 1rem;
+}
